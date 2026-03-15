@@ -15,7 +15,7 @@
 		"desc": "(WIP) Port of MCPE Alpha 0.6.1 to Symbian (S^3)"
 	},
 	{
-		"name": "Minecraft PE Source Code",
+		"name": "Minecraft PE for modern iOS",
 		"repo": "https://github.com/deepfriedwaffles/minecraft-pe-source-code/",
 		"desc": "Developing for modern iDevices should also work on other platforms too!"
 	},	
