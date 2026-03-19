@@ -11,8 +11,8 @@
 	},
 	{
 		"name": "Minecraft PE Symbian",
-		"repo": "https://github.com/minecraftpe-vita/minecraftpe-vita/tree/symbian",
-		"desc": "(WIP) Port of MCPE Alpha 0.6.1 to Symbian (S^3)"
+		"repo": "https://github.com/minecraftpe-vita/minecraftpe-vita/releases/v1.0.4",
+		"desc": "Port of MCPE Alpha 0.6.1 to Symbian (S^3)"
 	},
 	{
 		"name": "Minecraft PE for modern iOS",
