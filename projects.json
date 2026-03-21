@@ -25,6 +25,11 @@
 		"desc": "Project aiming to build the game up to modern standards (and then some)"
 	},
 	{
+		"name": "Minecraft PE Web Port",
+		"repo": "https://sffempire.ru/webgame/",
+		"desc": "Minecraft PE 0.6.1 in your web browser"
+	},
+	{
 		"name": "Minecraft PE for older iOS (4.0, 3.1)",
 		"repo": "https://github.com/TimofeyLednev/Minecraft-PE-0.6.1-iOS-3.1/",
 		"desc": "An attempt to make iOS 3.1 support for MCPE 0.6.1"
