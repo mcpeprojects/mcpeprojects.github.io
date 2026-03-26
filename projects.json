@@ -26,8 +26,8 @@
 	},
 	{
 		"name": "Minecraft PE Web Port",
-		"repo": "https://sffempire.ru/webgame/",
-		"desc": "Minecraft PE 0.6.1 in your web browser"
+		"repo": "https://github.com/SanGraphic/MCPEweb/tree/main",
+		"desc": "Minecraft PE 0.6.1 in your web port"
 	},
 	{
 		"name": "Minecraft PE for older iOS (4.0, 3.1)",
