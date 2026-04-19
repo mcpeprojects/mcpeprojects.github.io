@@ -11,11 +11,11 @@
 	},
 	{
 		"name": "Minecraft PE Symbian",
-		"repo": "https://github.com/minecraftpe-vita/minecraftpe-vita/releases/v1.0.6",
-		"desc": "Port of MCPE Alpha 0.6.1 to Symbian (S^3)"
+		"repo": "https://github.com/minecraftpe-vita/minecraftpe-vita/tree/symbian",
+		"desc": "(WIP) Port of MCPE Alpha 0.6.1 to Symbian (S^3)"
 	},
 	{
-		"name": "Minecraft PE for modern iOS",
+		"name": "Minecraft PE Source Code",
 		"repo": "https://github.com/deepfriedwaffles/minecraft-pe-source-code/",
 		"desc": "Developing for modern iDevices should also work on other platforms too!"
 	},	
@@ -25,19 +25,13 @@
 		"desc": "Project aiming to build the game up to modern standards (and then some)"
 	},
 	{
-		"name": "Minecraft PE Web Port",
-		"repo": "https://github.com/SanGraphic/MCPEweb/tree/main",
-		"desc": "Minecraft PE 0.6.1 in your web port"
-	},
-	{
 		"name": "Minecraft PE for older iOS (4.0, 3.1)",
 		"repo": "https://github.com/TimofeyLednev/Minecraft-PE-0.6.1-iOS-3.1/",
 		"desc": "An attempt to make iOS 3.1 support for MCPE 0.6.1"
-	}
-]
-{
-		"name": "HyperHLE",
-		"repo": "https://github.com/j92580498-max/touchHLE",
-		"desc": "iOS emulator for running early MCPE versions on Android and Windows."
+	},
+	{
+		"name": "HyperHLE Emulator",
+		"repo": "https://github.com/j92580498-max/touchHLE/",
+		"desc": "iOS emulator fork for running early MCPE versions on Android and Windows."
 	}
 ]
