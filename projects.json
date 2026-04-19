@@ -35,3 +35,9 @@
 		"desc": "An attempt to make iOS 3.1 support for MCPE 0.6.1"
 	}
 ]
+{
+		"name": "HyperHLE",
+		"repo": "https://github.com/j92580498-max/touchHLE",
+		"desc": "iOS emulator for running early MCPE versions on Android and Windows."
+	}
+]
