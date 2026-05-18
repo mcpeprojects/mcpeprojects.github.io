@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Minecraft PE Web Port",
-		"repo": "https://github.com/SanGraphic/MCPEweb/tree/main",
+		"repo": "https://github.com/SanGraphic/MCPEweb/",
 		"desc": "Minecraft PE 0.6.1 in your web port"
 	},
 	{
