@@ -43,6 +43,7 @@
 		"name": "Neo Minecraft PE",
 		"repo": "https://github.com/radmanplays/NeoMCPE",
 		"desc": "Porting newer versions into Minecraft PE 0.6.1."
+	},
 	{
 		"name": "Mineacraft PE Modernized",
 		"repo": "https://github.com/programmer1o1/MinecraftPE-v0.6.1",
