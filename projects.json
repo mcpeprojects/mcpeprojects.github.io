@@ -58,5 +58,20 @@
 		"name": "Minecraft PE PSP",
 		"repo": "https://github.com/Pencea-Flavius/Minecraft-PE-PSP",
 		"desc": "Port of minecraft PE 0.6.1 Alpha to PlayStation Portable"
+	}.
+	{
+		"name": "PocketMC",
+		"repo": "https://github.com/ByCesarDev/PocketMC",
+		"desc": "Fork of ElvyMC to add support multi-languages and modern minecraft content"
+	},
+	{
+		"name": "NeoMCPE",
+		"repo": "https://github.com/radmanplays/NeoMCPE",
+		"desc": "Backporting features from later MCPE to 0.6.1 alpha"
+	},
+	{
+		"name": "MCPE-PEWIKU",
+		"repo": "https://github.com/oldminecraftcommunity/MCPE-PEWIKU",
+		"desc": "Port of MCPE to Linux and Windows with minimal changes"
 	}
 ]
