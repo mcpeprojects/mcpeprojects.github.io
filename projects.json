@@ -58,7 +58,7 @@
 		"name": "Minecraft PE PSP",
 		"repo": "https://github.com/Pencea-Flavius/Minecraft-PE-PSP",
 		"desc": "Port of minecraft PE 0.6.1 Alpha to PlayStation Portable"
-	}.
+	},
 	{
 		"name": "PocketMC",
 		"repo": "https://github.com/ByCesarDev/PocketMC",
